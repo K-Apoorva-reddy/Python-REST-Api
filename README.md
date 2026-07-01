@@ -91,13 +91,12 @@ Public Repos: 10
 
 ###  Project Structure
 
-![Project Structure](Screenshots/project-structure.png)
+https://github.com/K-Apoorva-reddy/Python-REST-Api/blob/main/Project-structure.png
 
----
 
 ###  Terminal Output
 
-![Terminal Output](Screenshots/terminal-output.png)
+
 
 ---
 
