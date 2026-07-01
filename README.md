@@ -1,6 +1,6 @@
 # REST API Development using Python and JSON
 
-A Python project that demonstrates how to consume a REST API using the `requests` library. The application retrieves public GitHub user information through the GitHub REST API and displays the response in a readable format. This project was developed as **Task 4** of my Python Internship.
+A Python project that demonstrates how to consume a REST API using the `requests` library. The application retrieves public GitHub user information through the GitHub REST API and displays the response in a readable format. This project was developed as Task 4 of my Python Internship.
 
 # Project Overview
 
@@ -96,7 +96,7 @@ https://github.com/K-Apoorva-reddy/Python-REST-Api/blob/main/Project-structure.p
 
 ###  Terminal Output
 
-
+https://github.com/K-Apoorva-reddy/Python-REST-Api/blob/main/Terminal-output.png
 
 ---
 
